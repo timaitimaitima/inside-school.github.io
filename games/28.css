@@ -1,0 +1,24 @@
+
+img{
+    width: 100%;
+}
+.t{
+    border-radius: 50%;
+}
+.nav-link{
+    color: black;
+}
+.for{
+    font-family: 'Philosopher', sans-serif;
+}
+.navbar{
+    font-family: 'Press Start 2P', cursive;
+}
+.row{
+    margin:50px 0;
+}
+.main, .for{
+    background-color: rgb(45, 39, 39);
+    padding: 50px 0;
+    color: aliceblue;
+}
