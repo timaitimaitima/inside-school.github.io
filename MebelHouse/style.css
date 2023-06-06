@@ -1,0 +1,116 @@
+.logo-img{
+    width: 250px;
+}
+
+img{
+    width: 100%;
+}
+.nav-link{
+    color: navy;
+    font-weight: 900;
+    font-size: 1.1rem;
+}
+.footer{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.footer a{
+    font-size: 2rem;
+    text-decoration: none;
+}
+.socio {
+    text-decoration: none;
+    font-size: 2rem;
+    color: blue;
+    text-shadow: 0px 0px 3px black;
+
+}
+.socio:hover {
+    color: yellow;
+    text-shadow: 0px 0px 3px black;
+}
+.zoom:hover{
+    transform: scale(1.5);
+}
+.zoom {
+    transition: 0.5s;
+
+}
+.col-md-5{
+    
+overflow:hidden;
+}
+
+
+body{
+    background-image: url(1641290256_2-abrakadabra-fun-p-krasivii-derevyannii-fon-2.jpg);
+}
+.fon-gray{
+background-color: rgba(254, 254, 254, 0.641);
+}
+.fon-h{
+    background-color: rgba(246, 246, 246, 0.552);
+}
+.fon-j{
+    background-color: rgba(255, 255, 255, 0.577);
+}
+.l{
+    background-color: rgba(10, 10, 10, 0.403);
+    padding: 30px 0;
+    text-align: center;
+    color: rgb(209, 209, 209);
+    margin: 50px 0;
+    font-weight: 900;
+}
+h1{
+    font-size: 8vw;
+}
+.jok{
+    background-color: rgba(255, 255, 255, 0.577);
+    height: 100%;
+    /* display: flex; */
+
+}
+.joke{
+    background-color: rgba(255, 255, 255, 0.459);
+    padding: 30px 0;
+}
+.col-md-3{
+    padding: 10px;
+}
+ 
+
+/* 
+
+
+
+
+
+
+
+
+*/
+h1{
+font-family: 'Yeseva One', cursive; 
+
+}
+h2{
+font-family: 'Russo One', sans-serif;
+
+}
+h3{
+font-family: 'Philosopher', sans-serif;
+}
+p{
+font-family: 'Jost', sans-serif;
+}
+.nav-link{
+font-family: 'Lobster', cursive;
+}
+ol{
+font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
